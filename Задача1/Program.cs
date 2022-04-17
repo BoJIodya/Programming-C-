@@ -1,2 +1,13 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿double a = 2;  //Переменную задал как вещественное чило, поскольку в задаче не уточняется какие именно будут вводится числа, предположил, что могут быть и дроби. 
+double b = 4;
+
+if(a >b)
+{
+    Console.WriteLine(a);
+}
+else
+    {
+        {
+            Console.WriteLine(b);
+        }
+    }
