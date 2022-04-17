@@ -1,5 +1,5 @@
 ﻿int N = 10;
-int a = -N;
+int a = 1;
 
 while (a < N + 1)
 {
