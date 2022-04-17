@@ -10,3 +10,4 @@ while (a < N + 1)
     }
     a++;
 }
+Console.WriteLine ("расчёт окончен");
